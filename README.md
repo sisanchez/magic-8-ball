@@ -7,4 +7,4 @@ Manipulate HTML elements with JavaScript:  make something happen when you click 
 - Ask any "yes" or "no" question
 - Click "Shake" button and you'll get the answer!
 
-![magic 8 ball gif](./assets/magic-8-ball.gif){:height="75px" width="50px"}
+![magic 8 ball gif](./assets/magic-8-ball.gif)
